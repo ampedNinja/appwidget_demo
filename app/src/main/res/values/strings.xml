@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Wendergram</string>
+
+  <string name="title_activity_edit_photo">Edit Photo</string>
+  <string name="blur">Blur</string>
+  <string name="vignette">Vignette</string>
+  <string name="contrast">Contrast</string>
+  <string name="refresh">refresh</string>
+  <string name="clear_cache">Clear Cache</string>
+  <string name="appwidget_text">EXAMPLE</string>
+  <string name="add_widget">Add widget</string>
+</resources>
